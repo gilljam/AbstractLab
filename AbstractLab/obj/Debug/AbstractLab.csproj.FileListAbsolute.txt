@@ -1,0 +1,9 @@
+C:\Users\Felicia\Documents\Programmering\Prog13\Objektanalys och design\AbstractLab\AbstractLab\bin\Debug\AbstractLab.exe.config
+C:\Users\Felicia\Documents\Programmering\Prog13\Objektanalys och design\AbstractLab\AbstractLab\obj\Debug\AbstractLab.csprojResolveAssemblyReference.cache
+C:\Users\Felicia\Documents\Programmering\Prog13\Objektanalys och design\AbstractLab\AbstractLab\bin\Debug\AbstractLab.exe
+C:\Users\Felicia\Documents\Programmering\Prog13\Objektanalys och design\AbstractLab\AbstractLab\bin\Debug\AbstractLab.pdb
+C:\Users\Felicia\Documents\Programmering\Prog13\Objektanalys och design\AbstractLab\AbstractLab\obj\Debug\AbstractLab.exe
+C:\Users\Felicia\Documents\Programmering\Prog13\Objektanalys och design\AbstractLab\AbstractLab\obj\Debug\AbstractLab.pdb
+C:\Users\Felicia\Documents\Nackademin\Prog13\7 Objektanalys och design\AbstractLab\AbstractLab\bin\Debug\AbstractLab.exe.config
+C:\Users\Felicia\Documents\Nackademin\Prog13\7 Objektanalys och design\AbstractLab\AbstractLab\obj\Debug\AbstractLab.exe
+C:\Users\Felicia\Documents\Nackademin\Prog13\7 Objektanalys och design\AbstractLab\AbstractLab\obj\Debug\AbstractLab.pdb
